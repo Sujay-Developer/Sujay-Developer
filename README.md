@@ -1,3 +1,4 @@
+![logo](https://github.com/Sujay698/Sujay698/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm SUJAY DAS</h1>
 <h3 align="center">A passionate frontend developer from India. At Your Service.</h3>
 
