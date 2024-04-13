@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://codepen.io/Sujay-Developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Sujay-Developer" height="30" width="40" /></a>
 <a href="https://twitter.com/sujay_editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_editz" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.https://www.facebook.com/SujayDasWeb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.https://www.facebook.com/SujayDasWeb/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SujayDasWeb/" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/SujayDasWeb/" height="30" width="40" /></a>
   <a href="https://api.whatsapp.com/send/?phone=%2B918167681189&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="https://api.whatsapp.com/send/?phone=%2B918167681189&text&type=phone_number&app_absent=0" height="30" width="40" /></a>
 <a href="https://instagram.com/sujay_das_unknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujay_das_unknown" height="30" width="40" /></a>
 </p>
