@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sujay-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Sujay-Developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sujay-Developer&label=Profile%1500views&color=0e75b6&style=flat" alt="Sujay-Developer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sujay_editz" target="blank"><img src="https://img.shields.io/twitter/follow/sujay_editz?logo=twitter&style=for-the-badge" alt="sujay_editz" /></a> </p>
 
